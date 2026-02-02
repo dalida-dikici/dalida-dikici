@@ -21,7 +21,7 @@ My professional evolution is a story of transformation: from mastering the funda
 
 ### 📊 Featured Alchemy (Case Studies)
 
-* **[Video Game Market Analysis](https://github.com/dalida-dikici/ps4-game-analytics-bartle-achieversA):** An ITU Big Data project where I analyzed the gaming industry's evolution—a quest to find what makes a digital world resonate.
+* **[Video Game Market Analysis](https://github.com/dalida-dikici/data-driven-player-insights-ps4):** An ITU Big Data project where I analyzed the gaming industry's evolution—a quest to find what makes a digital world resonate.
 * **[FirmaCV - HR Experience Intelligence](https://github.com/dalida-dikici/from-data-to-value-dashboard-demo):** My flagship project. Transforming recruitment into a data-driven experience, ensuring every 'hero' finds the right 'kingdom'.
 
 ---
