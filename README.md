@@ -21,6 +21,8 @@ My professional evolution is a story of transformation: from mastering the funda
 
 ### 📊 Featured Alchemy (Case Studies)
 
+* **[Strategic Talent Intelligence 2026](https://github.com/dalida-dikici/Strategic-Talent-Intelligence-2026):** Transforming 19k raw candidate signals into a predictive 'Talent Value Index' (TVI). By architecting an AI-driven dashboard,
+  I've exposed the 'Relevant Experience' catalyst that boosts candidate quality by 24.6 points. This is where HR meets mathematical alchemy.
 * **[Video Game Market Analysis](https://github.com/dalida-dikici/data-driven-player-insights-ps4):** An ITU Big Data project where I analyzed the gaming industry's evolution—a quest to find what makes a digital world resonate.
 * **[FirmaCV - HR Experience Intelligence](https://github.com/dalida-dikici/from-data-to-value-dashboard-demo):** My flagship project. Transforming recruitment into a data-driven experience, ensuring every 'hero' finds the right 'kingdom'.
 
