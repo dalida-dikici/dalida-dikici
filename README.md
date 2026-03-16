@@ -1,40 +1,43 @@
-# Hi there, I'm Dalida — The Architect Alchemist 🧙‍♂️✨
+# 📊 Hi there, I'm Dalida — Data Scientist & Analytical Strategist 🚀
 
-### 🧪 Data is the Map, Storytelling is the Journey
+### 🛠️ Bridging the Gap Between Mathematical Rigor and Business Value
 
-With a **15-year foundation in Physics and Mathematics**, I view data analytics through the lens of **"The Hero’s Journey"**. In my world, raw data is the 'Call to Adventure,' and my mission as an **Architect Alchemist** is to navigate the trials of complexity to bring back the 'Elixir'—actionable strategic insights.
-
----
-
-### 📖 The Narrative of my Career
-My professional evolution is a story of transformation: from mastering the fundamental laws of the universe (Physics) to architecting the modern structures of information (Data). I don't just build dashboards; I craft **Data Narratives** that speak to the heart of business problems.
+I specialize in transforming complex datasets into clear, actionable strategic roadmaps. With a strong background in **Mathematics and Analytical Problem Solving**, I bridge the gap between high-dimensional data and stakeholder decision-making. I don't just build models; I design **Decision Support Systems** that solve real-world business challenges.
 
 ---
 
-### 🛠️ Technical Alchemy (The Tools of the Trade)
-* **Data Crafting:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, Snowflake)
-* **Visual Storytelling:** Streamlit, Power BI, Tableau
-* **Architectural Frameworks:** Airflow, Git/GitHub, Agile Methodologies
-* **Specialization:** HR Experience Intelligence, Process Optimization, System Design
+### 🔍 Professional Focus: The Art of Executive Synthesis
+* **Data Storytelling:** My core strength lies in simplifying complex analytical findings into intuitive narratives—a skill refined through years of analytical leadership and mathematical modeling.
+* **Behavioral Intelligence:** Experience in building **Behavioral Scoring Models** and strategic dashboards that drive operational efficiency and process optimization.
+* **AI Leadership:** Recently led a **GenAI Workshop** in collaboration with **Google & MultiGroup Community**, mentoring participants on deploying AI applications using **Google Cloud & Gemini API**.
 
 ---
 
-### 📊 Featured Alchemy (Case Studies)
+### 📈 Featured Strategic Projects
 
-* **[Strategic Talent Intelligence 2026](https://github.com/dalida-dikici/Strategic-Talent-Intelligence-2026):** Transforming 19k raw candidate signals into a predictive 'Talent Value Index' (TVI). By architecting an AI-driven dashboard,
-  I've exposed the 'Relevant Experience' catalyst that boosts candidate quality by 24.6 points. This is where HR meets mathematical alchemy.
-* **[Video Game Market Analysis](https://github.com/dalida-dikici/data-driven-player-insights-ps4):** An ITU Big Data project where I analyzed the gaming industry's evolution—a quest to find what makes a digital world resonate.
-* **[FirmaCV - HR Experience Intelligence](https://github.com/dalida-dikici/from-data-to-value-dashboard-demo):** My flagship project. Transforming recruitment into a data-driven experience, ensuring every 'hero' finds the right 'kingdom'.
+* **[TGSS-2024: AI-Powered Smart Analysis Lab](https://github.com/dalida-dikici/TGSS-2024-Smart-Analysis-Lab):** * *Impact:* Developed a Decision Support System for large-scale social data, implementing **Random Forest** for root cause analysis and automated executive reporting.
+* **[Strategic Talent Intelligence 2026](https://github.com/dalida-dikici/Strategic-Talent-Intelligence-2026):**
+    * *Impact:* Architected a 'Talent Value Index' using predictive analytics to enhance recruitment quality and decision accuracy.
+* **[FirmaCV - Experience Intelligence](https://github.com/dalida-dikici/from-data-to-value-dashboard-demo):** * *Impact:* Developed SQL-based behavioral models and strategic dashboards to optimize HR-Tech processes and candidate experience.
 
----
-
-### 🎓 The Ongoing Quest
-* **CoHE (YÖK) Data School:** Currently mastering advanced data engineering pipelines to further refine my 'alchemical' processes.
 
 ---
 
-### 🌊 Beyond the Code
-Living by the sea in **Kuşadası**, I find my balance between logic and creativity. My daily routine involves exploring the coastline with **Mocha** 🐾, my loyal companion, and constantly evolving through the art of 'Grow with Jo'.
+### 🛠️ Technical Stack (The Impact Tools)
+* **Analytics:** Python (Pandas, Scikit-learn, NumPy), SQL (Data Extraction & Analysis).
+* **ML & AI:** Predictive Modeling, Root Cause Analysis, **Gemini API & Google Cloud**.
+* **Visualization:** Streamlit, Power BI, Tableau (Focusing on executive-level clarity).
+* **Methodology:** Git/GitHub, Agile Workflow, Data Storytelling.
 
-[LinkedIn Profile](https://www.linkedin.com/in/dalida-dikici/) | [Let's build a story together!](mailto:dekbenli@gmail.com)
+---
 
+### 🎓 Ongoing Evolution
+* **Council of Higher Education (CoHE) - National Data Analysis School:** Advanced specialization in AI, Machine Learning, and Social Data Integration in collaboration with top-tier technical universities (ITU, METU, Bogazici).
+* **Community Mentor:** Actively mentoring new technical trainers and leading GenAI workshops for the next generation of tech talent.
+
+---
+
+### 🌊 Beyond the Analysis
+Based in **Kuşadası**, I find equilibrium between technical logic and the creative energy of the Aegean. Usually found exploring the shoreline with **Mocha** 🐾 or simplifying the next complex system.
+
+[LinkedIn Profile](https://www.linkedin.com/in/dalida-dikici/) | [Let's build a strategic story together!](mailto:dekbenli@gmail.com)
